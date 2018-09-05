@@ -32,7 +32,7 @@ DEPENDENCIES:
   - KingfisherWebP (from `../`)
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
+  https://github.com/cocoapods/specs.git:
     - Kingfisher
     - libwebp
 
@@ -47,4 +47,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 9e4019de665018d4ace4453f0e92d494a01e494a
 
-COCOAPODS: 1.5.0
+COCOAPODS: 1.5.3
